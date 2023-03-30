@@ -1,2 +1,11 @@
-# git_cheat_sheet
-This repo contains Git cheat sheet (summery of Git commands and notes)
+# Git Cheat Sheet
+
+Setting up Git for a folder and its sub files in order to be tracked by Git
+> git init
+
+adding files to git
+> git add .
+> 
+> git add -A
+> 
+> git add {filename} 
